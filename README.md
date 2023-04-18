@@ -15,7 +15,3 @@
 ```go
 ./bin/example
 ```
-
-## 关注公众号
-
-![学点程序](https://silenceper.oss-cn-beijing.aliyuncs.com/qrcode/search_study_program.png)
