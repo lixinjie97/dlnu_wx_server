@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>大连民族大学查询系统账户验证</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0">
+    <link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/weui/0.4.3/style/weui.min.css">
+    <link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/jquery-weui/0.8.0/css/jquery-weui.min.css">
+    <link rel="stylesheet" href="/dlnu/static/css/binding_page.css">
+</head>
+
+<body>
+    <div class='container'>
+        <form class="form-horizontal" role="form" action='' method='post'>
+            <div class="hd">
+                <h1 id="system_title" class="page_title">个人身份信息验证</h1>
+                <h1 id="system_title" class="page_desc">请使用教务信息账号和密码进行验证</h1>
+            </div>
+
+            <div class="form-group">
+                <div class="weui_cells weui_cells_form">
+                    <div class="weui_cell">
+                        <div id="account_tag" class="weui_cell_hd">
+                            <label class="weui_label">教务账号</label>
+                        </div>
+                        <div class="weui_cell_bd weui_cell_primary">
+                            <input class="weui_input" id="username" type="text" placeholder="教务账号" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="weui_cells weui_cells_form">
+                    <div class="weui_cell">
+                        <div id="password_tag" class="weui_cell_hd">
+                            <label class="weui_label">教务密码</label>
+                        </div>
+                        <div class="weui_cell_bd weui_cell_primary">
+                            <input class="weui_input" id="password" type="password" placeholder="教务密码" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="weui_msg">
+                <div class="weui_opr_area">
+                    <p class="weui_btn_area">
+                        <a href="javascript:" class="weui_btn weui_btn_primary" id="submit">保存</a>
+                    </p>
+                </div>
+            </div>
+
+            <a href="/dlnu/detail" >
+                <div style="margin-top: 15px; text-align: center">
+                    <p style="opacity: 0.7; font-size: 18px; width:95%; margin: auto; text-align: left">注：关于如何获取教务密码（点击跳转）</p>
+                </div>
+            </a>
+        </form>
+    </div>
+
+    <script src="https://cdn.bootcdn.net/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="https://cdn.bootcdn.net/ajax/libs/jquery-weui/0.8.0/js/jquery-weui.min.js"></script>
+    <script src="/dlnu/static/js/weixin-1.1.0.js"></script>
+    <script>
+        $(document).on("click", "#submit", function () {
+            $("#submit").addClass("weui_btn_disabled");
+            var username = $("#username").val();
+            var password = $("#password").val();
+            var url = "/dlnu/verify";
+            if (username == "" || password == "")
+                $.alert("还没填写完呢");
+            else {
+                $.post(url, {
+                        username: username,
+                        password: password,
+                },
+                function (data) {
+                    $.showLoading();
+                    if (data.code == 0) {
+                        setTimeout(function () {
+                            $.hideLoading();
+                            $.toast("验证成功");
+                        }, 1200);
+                        window.location.href = '/dlnu/verify_infomation' + "?username=" + username + "&password=" + password
+                    }
+                    else {
+                        $.hideLoading();
+                        $.alert(data.data.info);
+                    }
+                });
+            }
+        });
+    </script>
+</body>
+</html>

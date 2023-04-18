@@ -1,0 +1,92 @@
+{"level":"info","msg":"start wechat sdk example project","time":"2021-10-07 03:12:56"}
+{"level":"debug","msg":"offCfg=\u0026{AppID:wxfba7b5e6e4e4b171 AppSecret:e5229e03f3364877ae7317796d0fa97c Token:ae1la4ae24100d23ebEFmon EncodingAESKey: Cache:\u003cnil\u003e}","time":"2021-10-07 03:12:57"}
+{"level":"error","msg":"get ak error, err=NOAUTH Authentication required.","time":"2021-10-07 03:13:04"}
+{"level":"info","msg":"sql: no rows in result set","time":"2021-10-07 03:15:11"}
+{"level":"info","msg":"sql: no rows in result set","time":"2021-10-07 03:15:16"}
+{"level":"info","msg":"sql: no rows in result set","time":"2021-10-07 03:16:32"}
+{"level":"error","msg":"get ak error, err=NOAUTH Authentication required.","time":"2021-10-07 03:18:01"}
+{"level":"info","msg":"sql: no rows in result set","time":"2021-10-07 03:18:12"}
+{"level":"info","msg":"start wechat sdk example project","time":"2021-10-07 03:29:17"}
+{"level":"debug","msg":"offCfg=\u0026{AppID:wxfba7b5e6e4e4b171 AppSecret:e5229e03f3364877ae7317796d0fa97c Token:ae1la4ae24100d23ebEFmon EncodingAESKey: Cache:\u003cnil\u003e}","time":"2021-10-07 03:29:17"}
+{"level":"error","msg":"get ak error, err=NOAUTH Authentication required.","time":"2021-10-07 03:29:18"}
+{"level":"info","msg":"start wechat sdk example project","time":"2021-10-07 03:58:55"}
+{"level":"debug","msg":"offCfg=\u0026{AppID:wxfba7b5e6e4e4b171 AppSecret:e5229e03f3364877ae7317796d0fa97c Token:ae1la4ae24100d23ebEFmon EncodingAESKey:OaElyTnIPnh5O6Be4tzqNkwKeExvWGsFJ7US1UkgjiJ Cache:\u003cnil\u003e}","time":"2021-10-07 03:58:55"}
+{"level":"error","msg":"get ak error, err=NOAUTH Authentication required.","time":"2021-10-07 03:58:57"}
+{"level":"info","msg":"start wechat sdk example project","time":"2021-10-07 04:03:43"}
+{"level":"debug","msg":"offCfg=\u0026{AppID:wxfba7b5e6e4e4b171 AppSecret:e5229e03f3364877ae7317796d0fa97c Token:ae1la4ae24100d23ebEFmon EncodingAESKey:OaElyTnIPnh5O6Be4tzqNkwKeExvWGsFJ7US1UkgjiJ Cache:\u003cnil\u003e}","time":"2021-10-07 04:03:43"}
+{"level":"error","msg":"get ak error, err=NOAUTH Authentication required.","time":"2021-10-07 04:03:51"}
+{"level":"info","msg":"start wechat sdk example project","time":"2021-10-07 04:11:42"}
+{"level":"debug","msg":"offCfg=\u0026{AppID:wxfba7b5e6e4e4b171 AppSecret:e5229e03f3364877ae7317796d0fa97c Token:ae1la4ae24100d23ebEFmon EncodingAESKey:OaElyTnIPnh5O6Be4tzqNkwKeExvWGsFJ7US1UkgjiJ Cache:\u003cnil\u003e}","time":"2021-10-07 04:11:42"}
+{"level":"info","msg":"sql: no rows in result set","time":"2021-10-07 04:11:42"}
+{"level":"info","msg":"sql: no rows in result set","time":"2021-10-07 04:12:22"}
+{"level":"info","msg":"sql: no rows in result set","time":"2021-10-07 04:12:46"}
+{"level":"info","msg":"start wechat sdk example project","time":"2021-10-07 04:14:16"}
+{"level":"debug","msg":"offCfg=\u0026{AppID:wxfba7b5e6e4e4b171 AppSecret:e5229e03f3364877ae7317796d0fa97c Token:ae1la4ae24100d23ebEFmon EncodingAESKey:OaElyTnIPnh5O6Be4tzqNkwKeExvWGsFJ7US1UkgjiJ Cache:\u003cnil\u003e}","time":"2021-10-07 04:14:16"}
+{"level":"info","msg":"sql: no rows in result set","time":"2021-10-07 04:14:20"}
+{"level":"info","msg":"start wechat sdk example project","time":"2021-10-07 04:14:54"}
+{"level":"debug","msg":"offCfg=\u0026{AppID:wxfba7b5e6e4e4b171 AppSecret:e5229e03f3364877ae7317796d0fa97c Token:ae1la4ae24100d23ebEFmon EncodingAESKey:OaElyTnIPnh5O6Be4tzqNkwKeExvWGsFJ7US1UkgjiJ Cache:\u003cnil\u003e}","time":"2021-10-07 04:14:54"}
+{"level":"info","msg":"sql: no rows in result set","time":"2021-10-07 04:14:57"}
+{"level":"info","msg":"sql: no rows in result set","time":"2021-10-07 04:15:07"}
+{"level":"info","msg":"start wechat sdk example project","time":"2021-10-07 04:15:23"}
+{"level":"debug","msg":"offCfg=\u0026{AppID:wxfba7b5e6e4e4b171 AppSecret:e5229e03f3364877ae7317796d0fa97c Token:ae1la4ae24100d23ebEFmon EncodingAESKey:OaElyTnIPnh5O6Be4tzqNkwKeExvWGsFJ7US1UkgjiJ Cache:\u003cnil\u003e}","time":"2021-10-07 04:15:23"}
+{"level":"info","msg":"start wechat sdk example project","time":"2021-10-07 04:17:51"}
+{"level":"debug","msg":"offCfg=\u0026{AppID:wxfba7b5e6e4e4b171 AppSecret:e5229e03f3364877ae7317796d0fa97c Token:ae1la4ae24100d23ebEFmon EncodingAESKey:OaElyTnIPnh5O6Be4tzqNkwKeExvWGsFJ7US1UkgjiJ Cache:\u003cnil\u003e}","time":"2021-10-07 04:17:51"}
+{"level":"info","msg":"start wechat sdk example project","time":"2021-10-07 04:18:20"}
+{"level":"debug","msg":"offCfg=\u0026{AppID:wxfba7b5e6e4e4b171 AppSecret:e5229e03f3364877ae7317796d0fa97c Token:ae1la4ae24100d23ebEFmon EncodingAESKey:OaElyTnIPnh5O6Be4tzqNkwKeExvWGsFJ7US1UkgjiJ Cache:\u003cnil\u003e}","time":"2021-10-07 04:18:20"}
+{"level":"info","msg":"start wechat sdk example project","time":"2021-10-07 04:18:40"}
+{"level":"debug","msg":"offCfg=\u0026{AppID:wxfba7b5e6e4e4b171 AppSecret:e5229e03f3364877ae7317796d0fa97c Token:ae1la4ae24100d23ebEFmon EncodingAESKey:OaElyTnIPnh5O6Be4tzqNkwKeExvWGsFJ7US1UkgjiJ Cache:\u003cnil\u003e}","time":"2021-10-07 04:18:40"}
+{"level":"error","msg":"get ak error, err=NOAUTH Authentication required.","time":"2021-10-07 04:18:41"}
+{"level":"info","msg":"start wechat sdk example project","time":"2021-10-07 04:32:30"}
+{"level":"debug","msg":"offCfg=\u0026{AppID:wxfba7b5e6e4e4b171 AppSecret:e5229e03f3364877ae7317796d0fa97c Token:ae1la4ae24100d23ebEFmon EncodingAESKey:OaElyTnIPnh5O6Be4tzqNkwKeExvWGsFJ7US1UkgjiJ Cache:\u003cnil\u003e}","time":"2021-10-07 04:32:30"}
+{"level":"info","msg":"start wechat sdk example project","time":"2021-10-07 04:59:58"}
+{"level":"debug","msg":"offCfg=\u0026{AppID:wxfba7b5e6e4e4b171 AppSecret:e5229e03f3364877ae7317796d0fa97c Token:ae1la4ae24100d23ebEFmon EncodingAESKey: Cache:\u003cnil\u003e}","time":"2021-10-07 04:59:58"}
+{"level":"info","msg":"start wechat sdk example project","time":"2021-10-07 05:13:44"}
+{"level":"debug","msg":"offCfg=\u0026{AppID:wxfba7b5e6e4e4b171 AppSecret:e5229e03f3364877ae7317796d0fa97c Token:ae1la4ae24100d23ebEFmon EncodingAESKey: Cache:\u003cnil\u003e}","time":"2021-10-07 05:13:44"}
+{"level":"info","msg":"start wechat sdk example project","time":"2021-10-07 13:33:02"}
+{"level":"debug","msg":"offCfg=\u0026{AppID:wxfba7b5e6e4e4b171 AppSecret:e5229e03f3364877ae7317796d0fa97c Token:ae1la4ae24100d23ebEFmon EncodingAESKey: Cache:\u003cnil\u003e}","time":"2021-10-07 13:33:02"}
+{"level":"error","msg":"get ak error, err=NOAUTH Authentication required.","time":"2021-10-07 13:33:22"}
+{"level":"info","msg":"start wechat sdk example project","time":"2021-10-07 13:34:33"}
+{"level":"debug","msg":"offCfg=\u0026{AppID:wxfba7b5e6e4e4b171 AppSecret:e5229e03f3364877ae7317796d0fa97c Token:ae1la4ae24100d23ebEFmon EncodingAESKey: Cache:\u003cnil\u003e}","time":"2021-10-07 13:34:33"}
+{"level":"error","msg":"get ak error, err=NOAUTH Authentication required.","time":"2021-10-07 13:34:47"}
+{"level":"info","msg":"start wechat sdk example project","time":"2021-10-07 13:35:52"}
+{"level":"debug","msg":"offCfg=\u0026{AppID:wxfba7b5e6e4e4b171 AppSecret:e5229e03f3364877ae7317796d0fa97c Token:ae1la4ae24100d23ebEFmon EncodingAESKey: Cache:\u003cnil\u003e}","time":"2021-10-07 13:35:52"}
+{"level":"error","msg":"get ak error, err=NOAUTH Authentication required.","time":"2021-10-07 13:35:57"}
+{"level":"info","msg":"start wechat sdk example project","time":"2021-10-07 13:37:36"}
+{"level":"debug","msg":"offCfg=\u0026{AppID:wxfba7b5e6e4e4b171 AppSecret:e5229e03f3364877ae7317796d0fa97c Token:ae1la4ae24100d23ebEFmon EncodingAESKey: Cache:\u003cnil\u003e}","time":"2021-10-07 13:37:36"}
+{"level":"error","msg":"get ak error, err=NOAUTH Authentication required.","time":"2021-10-07 13:37:37"}
+{"level":"info","msg":"start wechat sdk example project","time":"2021-10-07 13:57:16"}
+{"level":"debug","msg":"offCfg=\u0026{AppID:wxfba7b5e6e4e4b171 AppSecret:e5229e03f3364877ae7317796d0fa97c Token:ae1la4ae24100d23ebEFmon EncodingAESKey: Cache:\u003cnil\u003e}","time":"2021-10-07 13:57:16"}
+{"level":"error","msg":"get ak error, err=NOAUTH Authentication required.","time":"2021-10-07 13:58:03"}
+{"level":"info","msg":"start wechat sdk example project","time":"2021-10-07 14:00:08"}
+{"level":"debug","msg":"offCfg=\u0026{AppID:wxfba7b5e6e4e4b171 AppSecret:e5229e03f3364877ae7317796d0fa97c Token:ae1la4ae24100d23ebEFmon EncodingAESKey: Cache:\u003cnil\u003e}","time":"2021-10-07 14:00:08"}
+{"level":"info","msg":"start wechat sdk example project","time":"2021-10-07 14:04:18"}
+{"level":"debug","msg":"offCfg=\u0026{AppID:wxfba7b5e6e4e4b171 AppSecret:e5229e03f3364877ae7317796d0fa97c Token:ae1la4ae24100d23ebEFmon EncodingAESKey: Cache:\u003cnil\u003e}","time":"2021-10-07 14:04:18"}
+{"level":"error","msg":"get ak error, err=NOAUTH Authentication required.","time":"2021-10-07 14:04:20"}
+{"level":"info","msg":"start wechat sdk example project","time":"2021-10-07 14:18:30"}
+{"level":"debug","msg":"offCfg=\u0026{AppID:wxfba7b5e6e4e4b171 AppSecret:e5229e03f3364877ae7317796d0fa97c Token:ae1la4ae24100d23ebEFmon EncodingAESKey: Cache:\u003cnil\u003e}","time":"2021-10-07 14:18:30"}
+{"level":"error","msg":"get ak error, err=NOAUTH Authentication required.","time":"2021-10-07 14:20:46"}
+{"level":"info","msg":"start wechat sdk example project","time":"2021-10-07 14:22:02"}
+{"level":"debug","msg":"offCfg=\u0026{AppID:wxfba7b5e6e4e4b171 AppSecret:e5229e03f3364877ae7317796d0fa97c Token:ae1la4ae24100d23ebEFmon EncodingAESKey: Cache:\u003cnil\u003e}","time":"2021-10-07 14:22:02"}
+{"level":"info","msg":"start wechat sdk example project","time":"2021-10-07 15:20:58"}
+{"level":"debug","msg":"offCfg=\u0026{AppID:wxfba7b5e6e4e4b171 AppSecret:e5229e03f3364877ae7317796d0fa97c Token:ae1la4ae24100d23ebEFmon EncodingAESKey: Cache:\u003cnil\u003e}","time":"2021-10-07 15:20:58"}
+{"level":"info","msg":"start wechat sdk example project","time":"2021-10-07 15:31:35"}
+{"level":"debug","msg":"offCfg=\u0026{AppID:wxfba7b5e6e4e4b171 AppSecret:e5229e03f3364877ae7317796d0fa97c Token:ae1la4ae24100d23ebEFmon EncodingAESKey: Cache:\u003cnil\u003e}","time":"2021-10-07 15:31:35"}
+{"level":"info","msg":"start wechat sdk example project","time":"2021-10-07 15:31:54"}
+{"level":"debug","msg":"offCfg=\u0026{AppID:wxfba7b5e6e4e4b171 AppSecret:e5229e03f3364877ae7317796d0fa97c Token:ae1la4ae24100d23ebEFmon EncodingAESKey: Cache:\u003cnil\u003e}","time":"2021-10-07 15:31:54"}
+{"level":"info","msg":"start wechat sdk example project","time":"2021-10-07 15:42:54"}
+{"level":"debug","msg":"offCfg=\u0026{AppID:wx23da26ec1c36b4c7 AppSecret:4aee9b599078857c841ec4619b02aa08 Token:ae1la4ae24100d23ebEFmon EncodingAESKey:OaElyTnIPnh5O6Be4tzqNkwKeExvWGsFJ7US1UkgjiJ Cache:\u003cnil\u003e}","time":"2021-10-07 15:42:54"}
+{"level":"info","msg":"start wechat sdk example project","time":"2021-10-07 15:44:28"}
+{"level":"debug","msg":"offCfg=\u0026{AppID:wx23da26ec1c36b4c7 AppSecret:4aee9b599078857c841ec4619b02aa08 Token:ae1la4ae24100d23ebEFmon EncodingAESKey:OaElyTnIPnh5O6Be4tzqNkwKeExvWGsFJ7US1UkgjiJ Cache:\u003cnil\u003e}","time":"2021-10-07 15:44:28"}
+{"level":"info","msg":"start wechat sdk example project","time":"2021-10-07 16:16:43"}
+{"level":"debug","msg":"offCfg=\u0026{AppID:wx23da26ec1c36b4c7 AppSecret:4aee9b599078857c841ec4619b02aa08 Token:ae1la4ae24100d23ebEFmon EncodingAESKey:OaElyTnIPnh5O6Be4tzqNkwKeExvWGsFJ7US1UkgjiJ Cache:\u003cnil\u003e}","time":"2021-10-07 16:16:43"}
+{"level":"info","msg":"start wechat sdk example project","time":"2021-10-07 16:20:46"}
+{"level":"debug","msg":"offCfg=\u0026{AppID:wx23da26ec1c36b4c7 AppSecret:4aee9b599078857c841ec4619b02aa08 Token:ae1la4ae24100d23ebEFmon EncodingAESKey:OaElyTnIPnh5O6Be4tzqNkwKeExvWGsFJ7US1UkgjiJ Cache:\u003cnil\u003e}","time":"2021-10-07 16:20:46"}
+{"level":"info","msg":"start wechat sdk example project","time":"2021-10-07 16:49:35"}
+{"level":"debug","msg":"offCfg=\u0026{AppID:wx23da26ec1c36b4c7 AppSecret:4aee9b599078857c841ec4619b02aa08 Token:ae1la4ae24100d23ebEFmon EncodingAESKey:OaElyTnIPnh5O6Be4tzqNkwKeExvWGsFJ7US1UkgjiJ Cache:\u003cnil\u003e}","time":"2021-10-07 16:49:35"}
+{"level":"info","msg":"start wechat sdk example project","time":"2021-10-07 16:57:08"}
+{"level":"debug","msg":"offCfg=\u0026{AppID:wx23da26ec1c36b4c7 AppSecret:4aee9b599078857c841ec4619b02aa08 Token:ae1la4ae24100d23ebEFmon EncodingAESKey:OaElyTnIPnh5O6Be4tzqNkwKeExvWGsFJ7US1UkgjiJ Cache:\u003cnil\u003e}","time":"2021-10-07 16:57:08"}
+{"level":"info","msg":"start wechat sdk example project","time":"2021-10-07 17:19:50"}
+{"level":"debug","msg":"offCfg=\u0026{AppID:wx23da26ec1c36b4c7 AppSecret:4aee9b599078857c841ec4619b02aa08 Token:ae1la4ae24100d23ebEFmon EncodingAESKey:OaElyTnIPnh5O6Be4tzqNkwKeExvWGsFJ7US1UkgjiJ Cache:\u003cnil\u003e}","time":"2021-10-07 17:19:50"}
+{"level":"info","msg":"start wechat sdk example project","time":"2021-10-07 17:23:08"}
+{"level":"debug","msg":"offCfg=\u0026{AppID:wx23da26ec1c36b4c7 AppSecret:4aee9b599078857c841ec4619b02aa08 Token:ae1la4ae24100d23ebEFmon EncodingAESKey:OaElyTnIPnh5O6Be4tzqNkwKeExvWGsFJ7US1UkgjiJ Cache:\u003cnil\u003e}","time":"2021-10-07 17:23:08"}
+{"level":"error","msg":"get ak error, err=get access_token error : errcode=40164 , errormsg=invalid ip 59.46.211.134 ipv6 ::ffff:59.46.211.134, not in whitelist rid: 615ebc9b-1e39aadc-71f5c40f","time":"2021-10-07 17:23:38"}

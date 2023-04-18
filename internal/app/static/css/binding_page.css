@@ -1,0 +1,91 @@
+body,html {
+        height:100%;
+        -webkit-tap-highlight-color:transparent
+        }
+        body {
+        overflow-x:hidden;
+        background-color:#fbf9fe
+        }
+        .container {
+        height:100%;
+        overflow-y:auto;
+        -webkit-overflow-scrolling:touch
+        }
+        .container>div {
+        background-color:#fbf9fe
+        }
+        .hd {
+        padding:2em 0
+        }
+        .page_title {
+        text-align:center;
+        font-size:28px;
+        color:#3cc51f;
+        font-weight:400;
+        margin:0 15%
+        }
+        .page_desc {
+        text-align:center;
+        color:#888;
+        font-size:14px
+        }
+        .button .page_title {
+        color:#225fba
+        }
+        .cell .page_title {
+        color:#225fba
+        }
+        .article .page_title {
+        color:#de7c23
+        }
+        .icons .page_title {
+        color:#3e24bd
+        }
+        .icons i {
+        margin:0 5px 10px
+        }
+        @-webkit-keyframes a {
+        0% {
+        -webkit-transform:translate3d(100%,0,0);
+        transform:translate3d(100%,0,0);
+        opacity:0
+        }
+        to {
+        -webkit-transform:translateZ(0);
+        transform:translateZ(0);
+        opacity:1
+        }
+        }@keyframes a {
+        0% {
+        -webkit-transform:translate3d(100%,0,0);
+        transform:translate3d(100%,0,0);
+        opacity:0
+        }
+        to {
+        -webkit-transform:translateZ(0);
+        transform:translateZ(0);
+        opacity:1
+        }
+        }@-webkit-keyframes b {
+        0% {
+        -webkit-transform:translateZ(0);
+        transform:translateZ(0);
+        opacity:1
+        }
+        to {
+        -webkit-transform:translate3d(100%,0,0);
+        transform:translate3d(100%,0,0);
+        opacity:0
+        }
+        }@keyframes b {
+        0% {
+        -webkit-transform:translateZ(0);
+        transform:translateZ(0);
+        opacity:1
+        }
+        to {
+        -webkit-transform:translate3d(100%,0,0);
+        transform:translate3d(100%,0,0);
+        opacity:0
+        }
+        }

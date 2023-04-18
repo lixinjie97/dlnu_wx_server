@@ -1,0 +1,26 @@
+# 监听本地的端口
+listen: :8889
+
+# 使用redis来存放access_token
+redis:
+  host: 127.0.0.1:6379
+
+# 微信公众号相关配置
+officialAccountConfig:
+  appID: wx23da26ec1c36b4c7
+  appSecret: 4aee9b599078857c841ec4619b02aa08
+  token: ae1la4ae24100d23ebEFmon
+  encodingAESKey: OaElyTnIPnh5O6Be4tzqNkwKeExvWGsFJ7US1UkgjiJ
+
+oracle:
+  user: jw1
+  password: 345678
+  host: 210.30.1.11
+  port: 1521
+  sid: dlnu10g
+
+runtime:
+  log:
+    logRootPath: '/runtime/logs/'
+    disableTimestamp: false
+    timestampFormat: '2006-01-02 15:04:05'
