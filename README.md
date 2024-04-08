@@ -11,7 +11,7 @@
   go build -o bin/example cmd/example/main.go
 ```
 ## Run
-请修改config.yaml中配置再运行
+请修改config.yaml中的配置再运行
 ```go
 ./bin/example
 ```
